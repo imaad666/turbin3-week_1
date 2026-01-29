@@ -1,6 +1,7 @@
 # Ignore everything
 *
 
-# Except src and this file
-!src/
+# Except .gitignore and src
 !.gitignore
+!src/
+!src/**
